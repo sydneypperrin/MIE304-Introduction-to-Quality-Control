@@ -1,5 +1,7 @@
 # Assignment 04: Control Charts for Variables I
 
+Answer the following questions about dataset ‘04 data’ using Python.
+
 1. A high-voltage power supply should have a nominal output voltage of 350 V. A sample of four units is selected each day and tested for process-control purposes. Set up X-bar and R charts on this process. Is the process in statistical control?
 
 2. What is the estimate of the standard deviation?
