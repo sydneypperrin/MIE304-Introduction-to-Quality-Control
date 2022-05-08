@@ -15,11 +15,3 @@ The following questions are about ‘Temperature’ column.
 5. Considering the first point lying outside the control limits, what is the estimate of the shifted mean () for that sample?
 
 6. Assume that the original value of the standard deviation () for the temperature reading is known to be 8. Develop CUSUM charts for mean and variance. What can we conclude about this process?
-
-The following questions are about ‘xi’ column.
-
-7. Assume that the data was taken from a process considered in-control with mean 10 and standard deviation 1.25. The manager believes something may have happened that might have caused the process to go out of control. The manager wishes to use control charts to determine if and when the process mean shifted by . Set up a CUSUM chart for the mean. Is the process in control?
-
-8. If the process is out-of-control, when does the chart detect it?
-
-9. If the process is out-of-control, what is the estimate of the shifted mean?
