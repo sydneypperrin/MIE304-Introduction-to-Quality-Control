@@ -13,9 +13,3 @@ Answer the following questions about dataset ’06 data’ using Python.
 5. What are the upper and lower control limits for the I-chart?
 
 6. What is the estimate of the mean for this process? (for the normally distributed data).
-
-7. Suppose the process mean shifts to 2.7. What is the probability of detecting this shift on the X chart on the first subsequent sample? (consider the normally distributed data).
-
-8. What is the average run length for the shift described in the previous question?
-
-9. For the shift described previously, what is the probability of detecting this transformation on the 4th sample after its occurrence?
