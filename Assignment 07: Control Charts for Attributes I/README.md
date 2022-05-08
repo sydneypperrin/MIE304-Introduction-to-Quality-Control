@@ -18,8 +18,6 @@ The following questions are about the rest of the columns.
 
 6. What is the center line that can be used in a chart for monitoring in next period?
 
-Questions 7-9 assume we start from the previous solution.
-
 7. What is the average sample size?
 
 8. Starting with the original data, set up the fraction nonconforming control chart for this process using the average sample size control limit approach. Is the process in statistical control according to this chart?
